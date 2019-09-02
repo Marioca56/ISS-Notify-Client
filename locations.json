@@ -1,5 +1,6 @@
 {"locations": [
-     {"name": "Portland, OR", "latitude": 45.51200, "longitude": -122.631007, "alt": 47.2}
+     {"name": "San Michele in Teverina, IT", : 42.592622, "longitude": 12.173210, "alt": 290}
+    ,{"name": "Portland, OR", "latitude": 45.51200, "longitude": -122.631007, "alt": 47.2}
     ,{"name": "New York, NY", "latitude": 40.6734, "longitude": -73.9767, "alt": 30}
     ,{"name": "London, UK", "latitude": 51.58297, "longitude": -0.02131, "alt": 24}
     ,{"name": "Vancouver, BC", "latitude": 49.24594, "longitude": -123.1189, "alt": 80}
